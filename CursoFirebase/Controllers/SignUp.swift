@@ -20,6 +20,7 @@ class SignUp: UIViewController, UIImagePickerControllerDelegate, UINavigationCon
     
     override func viewDidLoad() {
         super.viewDidLoad()
+            
 
         imagePicker.delegate = self
         
